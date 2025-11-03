@@ -1,0 +1,47 @@
+﻿  Introduction to C.cpp
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(41,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(42,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(42,9):
+      consider using '%zu' in the format string
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(43,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(43,9):
+      consider using '%zu' in the format string
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(44,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(44,9):
+      consider using '%zu' in the format string
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(45,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(45,9):
+      consider using '%zu' in the format string
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(46,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(46,9):
+      consider using '%zu' in the format string
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(47,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(47,9):
+      consider using '%zu' in the format string
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(48,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(48,9):
+      consider using '%zu' in the format string
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(49,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(49,9):
+      consider using '%zu' in the format string
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(62,10): warning C4477: 'scanf_s' : format string '%19s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(62,10):
+      this argument is used as a buffer size
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(71,10): warning C4477: 'scanf_s' : format string '%999s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(71,10):
+      this argument is used as a buffer size
+  
+C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(73,10): warning C4477: 'scanf_s' : format string '%1s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+      C:\Users\ksoane\Documents\C\1001Wk6-C\1001Wk6-C\Introduction to C.cpp(73,10):
+      this argument is used as a buffer size
+  
+  1001Wk6-C.vcxproj -> C:\Users\ksoane\Documents\C\1001Wk6-C\x64\Debug\1001Wk6-C.exe
