@@ -6,7 +6,8 @@ void initialize();
 void add();
 void print();
 
-int A[10];
+#define N 10
+int A[N];
 void initialize2();
 void print2();
 int findmax();

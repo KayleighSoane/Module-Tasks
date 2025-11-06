@@ -1,0 +1,4 @@
+﻿  Low-level Programming.cpp
+C:\Users\ksoane\Documents\GitHub\Module-Tasks\COMP1001 tasks\1001Wk6-C\Wk6 - Low-level Programming\Low-level Programming.cpp(21,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ksoane\Documents\GitHub\Module-Tasks\COMP1001 tasks\1001Wk6-C\Wk6 - Low-level Programming\Low-level Programming.cpp(23,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ksoane\Documents\GitHub\Module-Tasks\COMP1001 tasks\1001Wk6-C\Wk6 - Low-level Programming\Low-level Programming.cpp(25,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
