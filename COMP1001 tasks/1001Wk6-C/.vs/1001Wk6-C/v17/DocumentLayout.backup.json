@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E04CD6DE-9CF8-4DB5-BB34-0BE848D3D6AB}|1001Wk6-C\\1001Wk6-C.vcxproj|C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\1001Wk6-C\\Introduction to C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E04CD6DE-9CF8-4DB5-BB34-0BE848D3D6AB}|1001Wk6-C\\1001Wk6-C.vcxproj|solutionrelative:1001Wk6-C\\Introduction to C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{73FB72EC-4D7D-44F6-AC85-0E03CB5121D5}|Wk6 - Intro to C\\Wk6 - Intro to C.vcxproj|C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Intro to C\\Wk6 - Intro to C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73FB72EC-4D7D-44F6-AC85-0E03CB5121D5}|Wk6 - Intro to C\\Wk6 - Intro to C.vcxproj|solutionrelative:Wk6 - Intro to C\\Wk6 - Intro to C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C287097-34D4-423E-A5B5-654BA92B2D31}|Wk6 - Low-level Programming\\Wk6 - Low-level Programming.vcxproj|C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Low-level Programming\\Low-level Programming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Introduction to C.cpp",
-              "DocumentMoniker": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\1001Wk6-C\\Introduction to C.cpp",
-              "RelativeDocumentMoniker": "1001Wk6-C\\Introduction to C.cpp",
-              "ToolTip": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\1001Wk6-C\\Introduction to C.cpp",
-              "RelativeToolTip": "1001Wk6-C\\Introduction to C.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Wk6 - Intro to C.cpp",
+              "DocumentMoniker": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Intro to C\\Wk6 - Intro to C.cpp",
+              "RelativeDocumentMoniker": "Wk6 - Intro to C\\Wk6 - Intro to C.cpp",
+              "ToolTip": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Intro to C\\Wk6 - Intro to C.cpp",
+              "RelativeToolTip": "Wk6 - Intro to C\\Wk6 - Intro to C.cpp",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAiwIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-06T16:09:44.317Z",
+              "WhenOpened": "2025-11-06T16:22:19.384Z",
               "EditorCaption": ""
             },
             {
