@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3C287097-34D4-423E-A5B5-654BA92B2D31}|Wk6 - Low-level Programming\\Wk6 - Low-level Programming.vcxproj|C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Low-level Programming\\Low-level Programming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3C287097-34D4-423E-A5B5-654BA92B2D31}|Wk6 - Low-level Programming\\Wk6 - Low-level Programming.vcxproj|solutionrelative:Wk6 - Low-level Programming\\Low-level Programming.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73FB72EC-4D7D-44F6-AC85-0E03CB5121D5}|Wk6 - Intro to C\\Wk6 - Intro to C.vcxproj|C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Intro to C\\Wk6 - Intro to C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{73FB72EC-4D7D-44F6-AC85-0E03CB5121D5}|Wk6 - Intro to C\\Wk6 - Intro to C.vcxproj|solutionrelative:Wk6 - Intro to C\\Wk6 - Intro to C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\kayle\\OneDrive - University of Plymouth\\Github Repositories\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,33 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Wk6 - Intro to C.cpp",
-              "DocumentMoniker": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Intro to C\\Wk6 - Intro to C.cpp",
-              "RelativeDocumentMoniker": "Wk6 - Intro to C\\Wk6 - Intro to C.cpp",
-              "ToolTip": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Intro to C\\Wk6 - Intro to C.cpp",
-              "RelativeToolTip": "Wk6 - Intro to C\\Wk6 - Intro to C.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-06T16:22:19.384Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Low-level Programming.cpp",
-              "DocumentMoniker": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Low-level Programming\\Low-level Programming.cpp",
-              "RelativeDocumentMoniker": "Wk6 - Low-level Programming\\Low-level Programming.cpp",
-              "ToolTip": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1001 tasks\\1001Wk6-C\\Wk6 - Low-level Programming\\Low-level Programming.cpp",
-              "RelativeToolTip": "Wk6 - Low-level Programming\\Low-level Programming.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-06T16:13:39.806Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
