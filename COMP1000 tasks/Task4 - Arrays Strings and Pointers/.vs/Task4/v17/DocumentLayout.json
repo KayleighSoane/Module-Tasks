@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ksoane\\OneDrive - University of Plymouth\\Work\\COMP1000\\COMP1000_Tasks\\Task4 - Arrays Strings and Pointers\\",
+  "WorkspaceRootPath": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1000 tasks\\Task4 - Arrays Strings and Pointers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDE94993-D7C5-4331-B666-B3DF18749874}|Task4\\Task4.vcxproj|C:\\Users\\ksoane\\OneDrive - University of Plymouth\\Work\\COMP1000\\COMP1000_Tasks\\Task4 - Arrays Strings and Pointers\\Task4\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BDE94993-D7C5-4331-B666-B3DF18749874}|Task4\\Task4.vcxproj|C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1000 tasks\\Task4 - Arrays Strings and Pointers\\Task4\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BDE94993-D7C5-4331-B666-B3DF18749874}|Task4\\Task4.vcxproj|solutionrelative:Task4\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Task4.cpp",
-              "DocumentMoniker": "C:\\Users\\ksoane\\OneDrive - University of Plymouth\\Work\\COMP1000\\COMP1000_Tasks\\Task4 - Arrays Strings and Pointers\\Task4\\Task4.cpp",
+              "DocumentMoniker": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1000 tasks\\Task4 - Arrays Strings and Pointers\\Task4\\Task4.cpp",
               "RelativeDocumentMoniker": "Task4\\Task4.cpp",
-              "ToolTip": "C:\\Users\\ksoane\\OneDrive - University of Plymouth\\Work\\COMP1000\\COMP1000_Tasks\\Task4 - Arrays Strings and Pointers\\Task4\\Task4.cpp",
+              "ToolTip": "C:\\Users\\ksoane\\Documents\\GitHub\\Module-Tasks\\COMP1000 tasks\\Task4 - Arrays Strings and Pointers\\Task4\\Task4.cpp",
               "RelativeToolTip": "Task4\\Task4.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
